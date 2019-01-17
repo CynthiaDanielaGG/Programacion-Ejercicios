@@ -1,0 +1,16 @@
+Nombre	Correro	Carrera	Telefono
+Cynthia	sheccid_arraraa@hotmail.com	ISC	7471736625
+
+Jonathan	jona@email.com	ISC	1234567890
+
+Citlali	citla@email.com.mx	ISC	1234567890876
+
+1	1	1	1
+
+ana	runin	isc	22432
+
+null	null	null	null
+
+shaden	sha@email.com	INFORMATICA	0854389
+
+Victor	viviviv@hotmail.com	IGE	2992392739
